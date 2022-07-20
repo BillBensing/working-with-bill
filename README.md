@@ -7,6 +7,7 @@ Here is my go at it.
 ## billbensing.com/working-with-bill
 
 **Author**: [@BillBensing](https://github.com/BillBensing)
+
 **Status**: living
 
 ## Stuff to Know
